@@ -12,9 +12,11 @@
 
 ## Запуск
 
+```bash
 pip install -r requirements.txt
 python parser.py
-​
+```
+
 Результат — файл `books.xlsx` в корне проекта.
 
 ## Что парсится
